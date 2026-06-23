@@ -1,6 +1,9 @@
 "use client"
 
-import { useEffect, useState } from "react";
+import { useEffect, useState } from "react"; // module
+const {useEffect,useState} = require("react") // common
+
+
 import axios from "axios"
 import { AnimatePresence, motion } from "framer-motion";
 

@@ -1,0 +1,16 @@
+[
+  {
+    "id": 5,
+    "name": "Shark",
+    "type": "Fish",
+    "habitat": "Ocean",
+    "isWild": true,
+    "legs": 0
+  },
+  {
+    "id": 7,
+    "name": "nika",
+    "type": "wild",
+    "habitat": "test3"
+  }
+]

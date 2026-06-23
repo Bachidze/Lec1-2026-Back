@@ -97,6 +97,12 @@ program
                 console.log(readDAtaJson)
             })
 
+            let userarr = [
+                {
+                    id
+                }
+            ]
+
 
 
     program.parse()
